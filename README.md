@@ -1,6 +1,8 @@
 # TinyStories-Small-Language-Model
 # 🚀 Small Language Model (SLM) from Scratch
 
+https://colab.research.google.com/drive/1HrtR1RxYW_g524iQJJEdTM2IPsrDhR8e#scrollTo=I9iaZUFCmP0z
+
 This project is my hands-on attempt at building a **GPT-style Transformer model** from scratch using **PyTorch**.  
 The model is trained on the **TinyStories dataset** and is capable of generating short, coherent, and creative stories — all while being small enough to run on a single GPU or even Google Colab.  
 
